@@ -25115,5 +25115,43 @@
     "stars": 3,
     "suggestedControl": 2195,
     "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 7414,
+    "durability": 70,
+    "id": "473816d01b5",
+    "level": 510,
+    "maxQuality": 46553,
+    "name": {
+      "cn": "Rank VIII Artisan's Fragile Practice Materials (patch 5.2)",
+      "de": "Musterstück VIII (Belastbarkeit: 35)",
+      "en": "Aesthete's Bracelets of Crafting",
+      "fr": "Échantillon expérimental de niveau 8 [Solidité 35]",
+      "ja": "第8巻級の習作【耐久35】",
+      "ko": "Rank VIII Artisan's Fragile Practice Materials"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 5820,
+    "durability": 35,
+    "id": "956abb9e972",
+    "level": 510,
+    "maxQuality": 46746,
+    "name": {
+      "cn": "Rank VIII Artisan's Fragile Practice Materials (patch 5.2)",
+      "de": "Musterstück VIII (Belastbarkeit: 35)",
+      "en": "Solstice Ingot",
+      "fr": "Échantillon expérimental de niveau 8 [Solidité 35]",
+      "ja": "第8巻級の習作【耐久35】",
+      "ko": "Rank VIII Artisan's Fragile Practice Materials"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
   }
 ]
